@@ -1,0 +1,10 @@
+*&./simulations5/data/set_test
+./simulations5/data/set_16_128
+./simulations5/data/set_16_192
+./simulations5/data/set_16_256
+./simulations5/data/set_32_128
+./simulations5/data/set_32_192
+./simulations5/data/set_32_256
+./simulations5/data/set_48_128
+./simulations5/data/set_48_192
+./simulations5/data/set_48_256
